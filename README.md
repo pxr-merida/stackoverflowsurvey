@@ -58,7 +58,7 @@ An insight to the open source coding community.
 
 ### Built With
 
-* https://insiganhts.stackoverflow.com/survey 
+* https://insights.stackoverflow.com/survey 
 
 
 
