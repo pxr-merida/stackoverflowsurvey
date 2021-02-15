@@ -37,7 +37,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -54,29 +53,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+An insight to the open source coding community. 
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* https://insiganhts.stackoverflow.com/survey 
 
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -84,12 +68,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/pxr-merida/stackoverflowsurvey.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
