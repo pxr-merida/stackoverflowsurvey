@@ -51,12 +51,15 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Motivation of The Project
 
 An insight to the open source coding community. 
 
+A summary of the results of the analysis (can include a brief sentence summarizing the answer to each of your asked questions)
+Necessary acknowledgements
 
-### Built With
+
+### Libraries
 
 * https://insights.stackoverflow.com/survey 
 
@@ -70,6 +73,9 @@ An insight to the open source coding community.
    ```
 
 <!-- USAGE EXAMPLES -->
+
+### 
+
 ## Usage
 
 You can draw conclusions by using multiple survey data from previous date: 
