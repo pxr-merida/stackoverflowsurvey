@@ -53,16 +53,16 @@
 <!-- ABOUT THE PROJECT -->
 ## Motivation of The Project
 
-An insight to the open source coding community. 
+An insight to the open source coding community.
 
-A summary of the results of the analysis (can include a brief sentence summarizing the answer to each of your asked questions)
-Necessary acknowledgements
+* Women are still not represented in coding community. Minorty groups are not positively favored in coding community as well. There is no change from 2019 to 2020!
+* Doctoral degree gaves job satisfaction and having only professional degree does not satisfy people in their jobs. 
+* Although coders from USA populates stackoverflow other top 10 countries are increasing like India, Germany, Canada, Brazil and France. 
 
 
-### Libraries
+###  Data source
 
 * https://insights.stackoverflow.com/survey 
-
 
 
 ### Installation
