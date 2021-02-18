@@ -78,7 +78,7 @@ An insight to the open source coding community.
 
 ## Usage
 
-You can draw conclusions by using multiple survey data from previous date: 
+You can use analysis_stackoverflow.ipynb notebook to draw conclusions by using multiple survey data from previous date: 
 
 _For more examples, please refer to the (https://gulayse.medium.com/who-are-these-stackoverflow-people-f7bc0e1c3b9a)_
 
